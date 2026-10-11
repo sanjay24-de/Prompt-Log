@@ -1,0 +1,19 @@
+{
+  "runId": "reg_1786688482196",
+  "promptName": "support bot",
+  "executedAt": "2026-08-14T06:21:22.196Z",
+  "totalTests": 1,
+  "passedTests": 0,
+  "failedTests": 1,
+  "status": "ISSUES",
+  "results": [
+    {
+      "id": 1786688142538,
+      "name": "greet test ",
+      "input": "User say Welcome",
+      "expected": "Welcome",
+      "status": "FAIL",
+      "details": "Expected behavior not detected."
+    }
+  ]
+}

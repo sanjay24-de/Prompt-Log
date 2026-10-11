@@ -1,0 +1,18 @@
+[
+  {
+    "id": "usr_demo",
+    "name": "Demo User",
+    "email": "demo@promptlog.com",
+    "salt": "f1689ff29eeadb7c3a95da05981c05f9",
+    "hash": "a09ee25ff369cb498e76fcbfd0fffe84ec8800ca3ce138a114b623ea184df417c398de7c8aaca000fa0dad187ecb80a1f852b50090efc790b41bfae2bc615e5a",
+    "createdAt": "2026-08-27T05:33:06.127Z"
+  },
+  {
+    "id": "usr_23a3cc11343a67ee",
+    "name": "Sanjay G",
+    "email": "sanjayg@gmail.com",
+    "salt": "5cec34bbef7598a81b406162ae0b3a07",
+    "hash": "ea89d0688954fd8bb8e26bf1af8ec38506b49163afbf97b6818a91734fb9c4edfa3a15b0c3e4beeb0fa5b7756bd9f19e328557686ac9fbf06cf6431a7c150c33",
+    "createdAt": "2026-08-27T08:39:56.014Z"
+  }
+]

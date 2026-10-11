@@ -1,0 +1,7 @@
+{
+  "id": "test_1787135657357_4wx3xb",
+  "name": "Greet test",
+  "input": "User says hello",
+  "expected": "hello",
+  "createdAt": "2026-08-19T10:34:17.358Z"
+}

@@ -1,0 +1,35 @@
+{
+  "runId": "reg_1786688714188",
+  "promptName": "support bot",
+  "executedAt": "2026-08-14T06:25:14.188Z",
+  "totalTests": 3,
+  "passedTests": 0,
+  "failedTests": 3,
+  "status": "ISSUES",
+  "results": [
+    {
+      "id": 1786688142538,
+      "name": "greet test ",
+      "input": "User say Welcome",
+      "expected": "Welcome",
+      "status": "FAIL",
+      "details": "Expected behavior not detected."
+    },
+    {
+      "id": 1786688528237,
+      "name": "response test ",
+      "input": "User says give",
+      "expected": "give",
+      "status": "FAIL",
+      "details": "Expected behavior not detected."
+    },
+    {
+      "id": 1786688711425,
+      "name": "request test",
+      "input": "User says please",
+      "expected": "please",
+      "status": "FAIL",
+      "details": "Expected behavior not detected."
+    }
+  ]
+}
